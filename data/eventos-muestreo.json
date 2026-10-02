@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "fecha": "12 sep 2024",
+    "etiqueta": "E1",
+    "temporada": "lluvia"
+  },
+  {
+    "id": 2,
+    "fecha": "nov 2024",
+    "etiqueta": "E2",
+    "temporada": "sequía"
+  },
+  {
+    "id": 3,
+    "fecha": "ene 2025",
+    "etiqueta": "E3",
+    "temporada": "sequía",
+    "nota": "Filtros construidos"
+  },
+  {
+    "id": 4,
+    "fecha": "28 abr 2025",
+    "etiqueta": "E4",
+    "temporada": "sequía"
+  },
+  {
+    "id": 5,
+    "fecha": "16 jul 2025",
+    "etiqueta": "E5",
+    "temporada": "lluvia",
+    "nota": "Estiaje"
+  },
+  {
+    "id": 6,
+    "fecha": "oct 2025",
+    "etiqueta": "E6",
+    "temporada": "lluvia"
+  },
+  {
+    "id": 7,
+    "fecha": "ene 2026",
+    "etiqueta": "E7",
+    "temporada": "sequía"
+  },
+  {
+    "id": 8,
+    "fecha": "may 2026",
+    "etiqueta": "E8",
+    "temporada": "sequía"
+  },
+  {
+    "id": 9,
+    "fecha": "12 sep 2026",
+    "etiqueta": "E9",
+    "temporada": "lluvia"
+  }
+]
