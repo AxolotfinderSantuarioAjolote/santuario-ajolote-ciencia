@@ -1,0 +1,92 @@
+[
+  {
+    "param": "Ácido cianúrico",
+    "ratio": "6/9",
+    "pct": 67
+  },
+  {
+    "param": "Cloro total",
+    "ratio": "9/9",
+    "pct": 100
+  },
+  {
+    "param": "Cloro libre",
+    "ratio": "8/9",
+    "pct": 89
+  },
+  {
+    "param": "Bromo",
+    "ratio": "5/5",
+    "pct": 100
+  },
+  {
+    "param": "Nitrato",
+    "ratio": "8/9",
+    "pct": 89
+  },
+  {
+    "param": "Nitrito",
+    "ratio": "7/9",
+    "pct": 78
+  },
+  {
+    "param": "Hierro",
+    "ratio": "3/9",
+    "pct": 33
+  },
+  {
+    "param": "Cromo VI",
+    "ratio": "6/9",
+    "pct": 67
+  },
+  {
+    "param": "Plomo",
+    "ratio": "0/8",
+    "pct": 0
+  },
+  {
+    "param": "Cobre",
+    "ratio": "1/9",
+    "pct": 11
+  },
+  {
+    "param": "Mercurio",
+    "ratio": "0/9",
+    "pct": 0
+  },
+  {
+    "param": "Fluoruro",
+    "ratio": "3/9",
+    "pct": 33
+  },
+  {
+    "param": "Carbonato",
+    "ratio": "3/9",
+    "pct": 33
+  },
+  {
+    "param": "Alcalinidad",
+    "ratio": "5/9",
+    "pct": 56
+  },
+  {
+    "param": "pH electroquímico",
+    "ratio": "9/9",
+    "pct": 100
+  },
+  {
+    "param": "ORP",
+    "ratio": "8/9",
+    "pct": 89
+  },
+  {
+    "param": "Conductividad",
+    "ratio": "9/9",
+    "pct": 100
+  },
+  {
+    "param": "TDS",
+    "ratio": "9/9",
+    "pct": 100
+  }
+]
